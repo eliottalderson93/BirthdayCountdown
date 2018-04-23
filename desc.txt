@@ -1,0 +1,2 @@
+print how many days left, leave a msg less than 30, more than 30, less 
+than 5. By Erik Nordland
